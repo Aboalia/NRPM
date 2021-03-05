@@ -63,7 +63,7 @@
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Add-ons/plugins Developed by:
 * [SAP Business One SDK](https://www.sap.com/mena/products/business-one.html)
 * [Microsoft C#](https://dotnet.microsoft.com/learn/csharp)
 * [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
@@ -71,21 +71,16 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Here`s Why
 
-[Receivable - Payable Notes Management (RPN)] Add-on
-to manage Receivable Cheques or Payable Cheques - SAP Business One standard does not Applicable to Egyptian Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the check from the bank due to insufficient balance so we develop an integrated Add-on to solve the Egyptian Customer & Vendors issues.
+I Developed to manage Receivable Cheques or Payable Cheques - SAP Business One standard does not Applicable to Egyptian Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the check from the bank due to insufficient balance so we develop an integrated Add-on to solve the Egyptian Customer & Vendors issues.
 
-### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* SAP Business One Client
-  ```sh
-  https://www.sap.com/mena/products/business-one.html
-  ```
 
 ### Installation
-
+1. Get a SAP Business One Client at [https://www.sap.com/mena/products/business-one.html](SAP Business One Client)
+ 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
