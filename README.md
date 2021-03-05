@@ -74,9 +74,6 @@ Add-ons/plugins Developed by:
 ## Here`s Why
 SAP Business One standard does not Applicable to Egyptian Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the check from the bank due to insufficient balance so we develop an integrated [Receivable Cheques or Payable Cheques] Add-on to solve the Egyptian Customer & Vendors issues.
 
-
-This is an example of how to list things you need to use the software and how to install them.
-
 ### Installation
 Get Os And Database type
 1. Windows Server
