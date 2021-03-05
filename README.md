@@ -79,44 +79,42 @@ I Developed to manage Receivable Cheques or Payable Cheques - SAP Business One s
 This is an example of how to list things you need to use the software and how to install them.
 
 ### Installation
-1. Get a  Or Linux & HANA DB at 
-2. Windows Server
+Get Os And Database type
+1. Windows Server
  ```sh
    https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019?filetype=EXE
    ```
-3. SQL Server
+2. SQL Server
    ```sh
    https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019?filetype=EXE
    ```
-4. OR 
-5. Linux
+OR version For HANA
+1. Linux
     ```sh
    https://www.suse.com/download/sle-sap/
    ```
    
-6. HANA DB
+2. HANA DB
    ```sh
    https://launchpad.support.sap.com/#/softwarecenter
    ```
    
-7. Get a SAP Business One Client at 
+3. Get a SAP Business One Client at 
  ```sh
    https://www.sap.com/mena/products/business-one.html
    ```
-8. Install NPM packages
+4. Assgin Addon to Sld throw Extension Manager
    ```sh
-   Assgin Addon To SLD
+   https://[Domain]:40000/ExtensionManager/
    ```
-
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter]([linkedin-url]) - email@example.com
+Your Name - [LinkedIn]( https://www.linkedin.com/in/engabo3lia/) - Ahmed.Aboalia2015@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Project Link](https://github.com/Aboalia/NRPM)
 
 
 
