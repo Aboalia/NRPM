@@ -10,23 +10,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Aboalia/NRPM">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Cheque Processing System</h3>
+  <h3 align="center">Notes Receivable - Notes Payable Management</h3>
 
   <p align="center">
     An Cheque Processing project on MEA localization 
     <br />
-    <a href="https://github.com/Aboalia/CPS-New"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/Aboalia/NRPM"><strong>Explore the Project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/Aboalia/CPS-New/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Aboalia/CPS-New/issues">Request Feature</a>
+    <a href="https://github.com/Aboalia/NRPM">View Demo</a>
   </p>
 </p>
 
@@ -43,7 +39,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Why Notes Receivable - Notes Payable Management Solution</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -62,11 +58,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Receiving Cheques][product-screenshot01]](https://github.com/Aboalia/CPS-New/blob/master/Forms/Incoming%20Cheques/ReceivingCheques.b1f.cs)
-[![Receiving Cheques][product-screenshot01]](https://github.com/Aboalia/CPS-New/blob/master/Forms/Incoming%20Cheques/ReceivingCheques.b1f.cs)
-[![Receiving Cheques][product-screenshot02]](https://github.com/Aboalia/CPS-New/blob/master/Forms/Incoming%20Cheques/ReceivingCheques.b1f.cs)
-[![Receiving Cheques][product-screenshot03]](https://github.com/Aboalia/CPS-New/blob/master/Forms/Incoming%20Cheques/ReceivingCheques.b1f.cs)
-[![Receiving Cheques][product-screenshot04]](https://github.com/Aboalia/CPS-New/blob/master/Forms/Incoming%20Cheques/ReceivingCheques.b1f.cs)
+[![Receiving Cheques][product-screenshot01]]()
+[![Receiving Cheques][product-screenshot01]]()
+[![Receiving Cheques][product-screenshot02]]()
+[![Receiving Cheques][product-screenshot03]]()
+[![Receiving Cheques][product-screenshot04]]()
 
 
 
