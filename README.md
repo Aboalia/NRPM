@@ -53,10 +53,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Here, the process of receiving Cheques in the company's treasury from the customer, whether it is one or more, then a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value
+
 [![Receiving Cheques][product-screenshot01]]()
+
 [![Receiving Cheques][product-screenshot01]]()
+
 [![Receiving Cheques][product-screenshot02]]()
+
 [![Receiving Cheques][product-screenshot03]]()
+
 [![Receiving Cheques][product-screenshot04]]()
 
 
