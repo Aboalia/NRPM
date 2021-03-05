@@ -72,8 +72,7 @@ Add-ons/plugins Developed by:
 
 <!-- GETTING STARTED -->
 ## Here`s Why
-
-I Developed to manage Receivable Cheques or Payable Cheques - SAP Business One standard does not Applicable to Egyptian Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the check from the bank due to insufficient balance so we develop an integrated Add-on to solve the Egyptian Customer & Vendors issues.
+SAP Business One standard does not Applicable to Egyptian Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the check from the bank due to insufficient balance so we develop an integrated [Receivable Cheques or Payable Cheques] Add-on to solve the Egyptian Customer & Vendors issues.
 
 
 This is an example of how to list things you need to use the software and how to install them.
