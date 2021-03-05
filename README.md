@@ -81,7 +81,7 @@ Add-ons/plugins Developed by:
 
 <!-- GETTING STARTED -->
 ## Here`s Why
-SAP Business One standard does not Applicable Some Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the Cheque from the bank due to insufficient balance so we develop an integrated [Receivable Cheques or Payable Cheques] Add-on to solve Partially Collected from the Customer And Partially Paid to Vendors issues.
+SAP Business One standard is not applicable with some customers and vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the Cheque from the bank due to insufficient balance so we develop an integrated [Receivable Cheques or Payable Cheques] Add-on to solve Partially Collected from the Customer And Partially Paid to Vendors issues.
 
 
 ### Installation
