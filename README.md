@@ -41,7 +41,6 @@
     <li>
       <a href="#getting-started">Here's why</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
