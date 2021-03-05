@@ -17,7 +17,7 @@
   <h3 align="center">[Receivable - Payable Notes Management (RPN)] Add-on</h3>
 
   <p align="center">
-    An Cheque or Notes Processing Project on MEA localization 
+    An Cheque or Notes Processing Add-On
     <br />
     <a href="https://github.com/Aboalia/NRPM-Addon"><strong>Explore the Project»</strong></a>
     <br />
@@ -81,7 +81,8 @@ Add-ons/plugins Developed by:
 
 <!-- GETTING STARTED -->
 ## Here`s Why
-SAP Business One standard does not Applicable to Egyptian Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the check from the bank due to insufficient balance so we develop an integrated [Receivable Cheques or Payable Cheques] Add-on to solve the Egyptian Customer & Vendors issues.
+SAP Business One standard does not Applicable Some Customer and Vendors they usually refuse to totally pay the Cheques and pay it in installment payments or cases of returning the Cheque from the bank due to insufficient balance so we develop an integrated [Receivable Cheques or Payable Cheques] Add-on to solve Partially Collected from the Customer And Partially Paid to Vendors issues.
+
 
 ### Installation
 Get Os And Database type
