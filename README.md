@@ -52,19 +52,19 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Here, the process of receiving Cheques in the company's treasury from the customer, whether it is one or more.
+1. Here, the process of receiving Cheques in the company's treasury from the customer, whether it is one or more.
 
 [![Receiving Cheques][product-screenshot01]]()
 
-a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value.
+2. a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value.
 
 [![Receiving Cheques][product-screenshot02]]()
 
-Here, the selected Cheque will return to the customer due to insufficient funds, for example, or the customer paid the check value in cash.
+3. Here, the selected Cheque will return to the customer due to insufficient funds, for example, or the customer paid the check value in cash.
 
 [![Receiving Cheques][product-screenshot03]]()
 
-A journal entry is made, the value of which is combined from the check to be returned, thus increasing the customer's indebtedness.
+4. A journal entry is made, the value of which is combined from the check to be returned, thus increasing the customer's indebtedness.
 
 [![Receiving Cheques][product-screenshot04]]()
 
