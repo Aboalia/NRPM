@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Aboalia/NRPM">
+  <a href="https://github.com/Aboalia/NRPM-Addon">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,10 +19,10 @@
   <p align="center">
     An Cheque or Notes Processing Project on MEA localization 
     <br />
-    <a href="https://github.com/Aboalia/NRPM"><strong>Explore the Project»</strong></a>
+    <a href="https://github.com/Aboalia/NRPM-Addon"><strong>Explore the Project»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Aboalia/NRPM">View Demo</a>
+    <a href="https://github.com/Aboalia/NRPM-Addon">View Demo</a>
   </p>
 </p>
 
@@ -113,7 +113,7 @@ OR version For HANA
 
 Your Name - [LinkedIn]( https://www.linkedin.com/in/engabo3lia/) - Ahmed.Aboalia2015@gmail.com
 
-Project Link: [Project Link](https://github.com/Aboalia/NRPM)
+Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 
 
 
@@ -121,15 +121,15 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Aboalia/NRPM/network/members
+[contributors-url]: https://github.com/Aboalia/NRPM-Addon/network/members
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Aboalia/NRPM/network/members
+[forks-url]: https://github.com/Aboalia/NRPM-Addon/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Aboalia/NRPM/stargazers
+[stars-url]: https://github.com/Aboalia/NRPM-Addon/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Aboalia/NRPM/issues
+[issues-url]: https://github.com/Aboalia/NRPM-Addon/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Aboalia/NRPM/blob/master/LICENSE.txt
+[license-url]: https://github.com/Aboalia/NRPM-Addon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/engabo3lia/
 [product-screenshot01]: images/ScreenShot01.PNG
