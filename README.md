@@ -58,7 +58,7 @@
 
 2. a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value.
 
-[![Receiving Cheques][product-screenshot02]]()
+Images/ScreenShot01.PNG
 
 3. Here, the selected Cheque will return to the customer due to insufficient funds, for example, or the customer paid the check value in cash.
 
