@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Aboalia/NRPM-Addon">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">[Receivable - Payable Notes Management (RPN)] Add-on</h3>
@@ -139,24 +139,24 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 [license-url]: https://github.com/Aboalia/NRPM-Addon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/engabo3lia/
-[product-screenshot01]: images/ScreenShot01.JPG
-[product-screenshot02]: images/ScreenShot02.JPG
-[product-screenshot03]: images/ScreenShot03.JPG
-[product-screenshot04]: images/ScreenShot04.JPG
-[product-screenshot05]: images/ScreenShot05.JPG
-[product-screenshot06]: images/ScreenShot06.JPG
-[product-screenshot07]: images/ScreenShot07.JPG
-[product-screenshot08]: images/ScreenShot08.JPG
-[product-screenshot09]: images/ScreenShot09.JPG
-[product-screenshot10]: images/ScreenShot10.JPG
-[product-screenshot11]: images/ScreenShot11.JPG
-[product-screenshot12]: images/ScreenShot12.JPG
-[product-screenshot13]: images/ScreenShot13.JPG
-[product-screenshot14]: images/ScreenShot14.JPG
-[product-screenshot15]: images/ScreenShot15.JPG
-[product-screenshot16]: images/ScreenShot16.JPG
-[product-screenshot17]: images/ScreenShot17.JPG
-[product-screenshot18]: images/ScreenShot18.JPG
-[product-screenshot19]: images/ScreenShot19.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
+[product-screenshot01]: Images/ScreenShot01.PNG
+[product-screenshot02]: Images/ScreenShot02.PNG
+[product-screenshot03]: Images/ScreenShot03.PNG
+[product-screenshot04]: Images/ScreenShot04.PNG
+[product-screenshot05]: Images/ScreenShot05.PNG
+[product-screenshot06]: Images/ScreenShot06.PNG
+[product-screenshot07]: Images/ScreenShot07.PNG
+[product-screenshot08]: Images/ScreenShot08.PNG
+[product-screenshot09]: Images/ScreenShot09.PNG
+[product-screenshot10]: Images/ScreenShot10.PNG
+[product-screenshot11]: Images/ScreenShot11.PNG
+[product-screenshot12]: Images/ScreenShot12.PNG
+[product-screenshot13]: Images/ScreenShot13.PNG
+[product-screenshot14]: Images/ScreenShot14.PNG
+[product-screenshot15]: Images/ScreenShot15.PNG
+[product-screenshot16]: Images/ScreenShot16.PNG
+[product-screenshot17]: Images/ScreenShot17.PNG
+[product-screenshot18]: Images/ScreenShot18.PNG
+[product-screenshot19]: Images/ScreenShot19.PNG
+[product-screenshot20]: Images/ScreenShot20.PNG
 
