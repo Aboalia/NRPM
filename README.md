@@ -53,16 +53,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 1. Here the Customer Balance.
-
 [![Receiving Cheques][product-screenshot01]]()
 
-2. Here the Customer Balance.
+2. Here the Customer Journal Entry.
+[![Receiving Cheques][product-screenshot02]]()
 
-[![Receiving Cheques2][product-screenshot02]]()
+3. Here the Customer is debit by adding a new invoice in its balance.
+[![Receiving Cheques][product-screenshot03]]()
+
+4. Here the Customer balance after adding A/R Invoice.
+[![Receiving Cheques][product-screenshot04]]()
+
+4. Here we will receive a new Cheques from Customer.
+[![Receiving Cheques][product-screenshot05]]()
+
+5. Here we will add a new Cheque with Details.
+[![Receiving Cheques][product-screenshot05]]()
 
 
-
-
+6. Here we will Deposit Cheque to Bank Treasury.
+[![Receiving Cheques][product-screenshot05]]()
 
 ### Built With
 
@@ -134,7 +144,7 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/engabo3lia/
 [product-screenshot01]: Images/ScreenShot01.png
-[product-screenshot02]: images/ScreenShot02.png
+[product-screenshot02]: Images/ScreenShot02.png
 [product-screenshot03]: Images/ScreenShot03.png
 [product-screenshot04]: Images/ScreenShot04.png
 [product-screenshot05]: Images/ScreenShot05.png
