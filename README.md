@@ -52,29 +52,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
-  <a href="https://github.com/Aboalia/NRPM-Addon">
-    <img src="Images/ScreenShot01.PNG" alt="Logo">
-  </a>
-
-  <h3 align="center">1. Here, the process of receiving Cheques in the company's treasury from the customer, whether it is one or more.</h3>
-
-  <p align="center">
-    An Cheque or Notes Processing Add-On
-    <br />
-    <a href="https://github.com/Aboalia/NRPM-Addon"><strong>Explore the Project»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Aboalia/NRPM-Addon">View Demo</a>
-  </p>
-</p>
-
-
-
-
+1. Here, the process of receiving Cheques in the company's treasury from the customer, whether it is one or more.
 [![Receiving Cheques][product-screenshot01]]()
+[product-screenshot01]
 
 2. a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value.
+[![Receiving Cheques][product-screenshot02]]()
+
+
 
 3. Here, the selected Cheque will return to the customer due to insufficient funds, for example, or the customer paid the check value in cash.
 
@@ -83,8 +68,6 @@
 4. A journal entry is made, the value of which is combined from the check to be returned, thus increasing the customer's indebtedness.
 
 [![Receiving Cheques][product-screenshot04]]()
-
-
 
 ### Built With
 
