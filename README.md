@@ -1,9 +1,9 @@
-<!--[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url] 
-[![LinkedIn][linkedin-shield]][linkedin-url]-->
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -53,18 +53,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 1. Here the Customer Balance.
+
 [![Receiving Cheques][product-screenshot01]]()
 
-2. a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value.
-[![Receiving Cheques][product-screenshot02]]()
+2. Here the Customer Balance.
 
-3. Here, the selected Cheque will return to the customer due to insufficient funds, for example, or the customer paid the check value in cash.
+[![Receiving Cheques2][product-screenshot02]]()
 
-[![Receiving Cheques][product-screenshot03]]()
 
-4. A journal entry is made, the value of which is combined from the check to be returned, thus increasing the customer's indebtedness.
-
-[![Receiving Cheques][product-screenshot04]]()
 
 
 
@@ -138,23 +134,23 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/engabo3lia/
 [product-screenshot01]: Images/ScreenShot01.png
-[product-screenshot02]: images/ScreenShot02.PNG
-[product-screenshot03]: Images/ScreenShot03.PNG
-[product-screenshot04]: Images/ScreenShot04.PNG
-[product-screenshot05]: Images/ScreenShot05.PNG
-[product-screenshot06]: Images/ScreenShot06.PNG
-[product-screenshot07]: Images/ScreenShot07.PNG
-[product-screenshot08]: Images/ScreenShot08.PNG
-[product-screenshot09]: Images/ScreenShot09.PNG
-[product-screenshot10]: Images/ScreenShot10.PNG
-[product-screenshot11]: Images/ScreenShot11.PNG
-[product-screenshot12]: Images/ScreenShot12.PNG
-[product-screenshot13]: Images/ScreenShot13.PNG
-[product-screenshot14]: Images/ScreenShot14.PNG
-[product-screenshot15]: Images/ScreenShot15.PNG
-[product-screenshot16]: Images/ScreenShot16.PNG
-[product-screenshot17]: Images/ScreenShot17.PNG
-[product-screenshot18]: Images/ScreenShot18.PNG
-[product-screenshot19]: Images/ScreenShot19.PNG
-[product-screenshot20]: Images/ScreenShot20.PNG
+[product-screenshot02]: images/ScreenShot02.png
+[product-screenshot03]: Images/ScreenShot03.png
+[product-screenshot04]: Images/ScreenShot04.png
+[product-screenshot05]: Images/ScreenShot05.png
+[product-screenshot06]: Images/ScreenShot06.png
+[product-screenshot07]: Images/ScreenShot07.png
+[product-screenshot08]: Images/ScreenShot08.png
+[product-screenshot09]: Images/ScreenShot09.png
+[product-screenshot10]: Images/ScreenShot10.png
+[product-screenshot11]: Images/ScreenShot11.png
+[product-screenshot12]: Images/ScreenShot12.png
+[product-screenshot13]: Images/ScreenShot13.png
+[product-screenshot14]: Images/ScreenShot14.png
+[product-screenshot15]: Images/ScreenShot15.png
+[product-screenshot16]: Images/ScreenShot16.png
+[product-screenshot17]: Images/ScreenShot17.png
+[product-screenshot18]: Images/ScreenShot18.png
+[product-screenshot19]: Images/ScreenShot19.png
+[product-screenshot20]: Images/ScreenShot20.png
 
