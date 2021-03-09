@@ -64,15 +64,127 @@
 4. Here the Customer balance after adding A/R Invoice.
 [![Receiving Cheques][product-screenshot04]]()
 
-4. Here we will receive a new Cheques from Customer.
+5. Here we will receive a new Cheques from Customer.
 [![Receiving Cheques][product-screenshot05]]()
 
-5. Here we will add a new Cheque with Details.
-[![Receiving Cheques][product-screenshot05]]()
+6. Here we will add a new Cheque with Details.
+[![Receiving Cheques][product-screenshot06]]()
+
+7. Here we will Deposit Cheque to Bank Treasury.
+[![Receiving Cheques][product-screenshot07]]()
+
+8. Here we will show the Company Treasury to send a Cheque to Bank Treasury.
+[![Receiving Cheques][product-screenshot08]]()
+
+9. After Specify the Bank and branch select a Cheque click "Sent to Bank >>" Button.
+[![Receiving Cheques][product-screenshot09]]()
+
+10. Now the Selected Cheque is Sented to Bank Treasury temporarily until you click on the "Add" Button.
+[![Receiving Cheques][product-screenshot10]]()
+
+11. Bank Treasury with the Cheque Added.
+[![Receiving Cheques][product-screenshot11]]()
+
+12. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot12]]()
+
+13. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot13]]()
+
+14. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot14]]()
+
+15. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot15]]()
+
+16. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot16]]()
+
+17. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot18]]()
+
+19. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot19]]()
+
+20. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot20]]()
+
+21. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot21]]()
 
 
-6. Here we will Deposit Cheque to Bank Treasury.
-[![Receiving Cheques][product-screenshot05]]()
+22. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot22]]()
+
+23. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot23]]()
+
+24. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot24]]()
+
+25. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot25]]()
+
+
+26. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot26]]()
+
+27. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot27]]()
+
+28. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot28]]()
+
+29. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot29]]()
+
+30. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot30]]()
+
+31. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot31]]()
+
+32. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot32]]()
+
+33. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot33]]()
+
+34. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot34]]()
+
+35. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot35]]()
+
+36. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot36]]()
+
+37. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot37]]()
+
+38. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot38]]()
+
+39. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot39]]()
+
+40. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot40]]()
+
+41. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot41]]()
+
+42. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot42]]()
+
+43. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot43]]()
+
+44. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot44]]()
+
+44. Here We will Reject the added Cheque if Customer blalnce is not cover Cheque Amount
+[![Receiving Cheques][product-screenshot45]]()
 
 ### Built With
 
@@ -163,4 +275,30 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 [product-screenshot18]: Images/ScreenShot18.png
 [product-screenshot19]: Images/ScreenShot19.png
 [product-screenshot20]: Images/ScreenShot20.png
+[product-screenshot21]: Images/ScreenShot21.png
+[product-screenshot22]: Images/ScreenShot22.png
+[product-screenshot23]: Images/ScreenShot23.png
+[product-screenshot24]: Images/ScreenShot24.png
+[product-screenshot25]: Images/ScreenShot25.png
+[product-screenshot26]: Images/ScreenShot26.png
+[product-screenshot27]: Images/ScreenShot27.png
+[product-screenshot28]: Images/ScreenShot28.png
+[product-screenshot29]: Images/ScreenShot29.png
+[product-screenshot30]: Images/ScreenShot30.png
+[product-screenshot31]: Images/ScreenShot31.png
+[product-screenshot32]: Images/ScreenShot32.png
+[product-screenshot33]: Images/ScreenShot33.png
+[product-screenshot34]: Images/ScreenShot34.png
+[product-screenshot35]: Images/ScreenShot35.png
+[product-screenshot36]: Images/ScreenShot36.png
+[product-screenshot37]: Images/ScreenShot37.png
+[product-screenshot38]: Images/ScreenShot38.png
+[product-screenshot39]: Images/ScreenShot39.png
+[product-screenshot40]: Images/ScreenShot40.png
+[product-screenshot41]: Images/ScreenShot41.png
+[product-screenshot42]: Images/ScreenShot42.png
+[product-screenshot43]: Images/ScreenShot43.png
+[product-screenshot44]: Images/ScreenShot44.png
+[product-screenshot45]: Images/ScreenShot45.png
+
 
