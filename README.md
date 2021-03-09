@@ -52,14 +52,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-1. Here, the process of receiving Cheques in the company's treasury from the customer, whether it is one or more.
+1. Here the Customer Balance.
 [![Receiving Cheques][product-screenshot01]]()
-[product-screenshot01]
 
 2. a Journal entry is made, which is summarized in increasing the intermediary 'Received Cheques Account' with the total value of the checks and decreasing the customer’s debt with the same value.
 [![Receiving Cheques][product-screenshot02]]()
-
-
 
 3. Here, the selected Cheque will return to the customer due to insufficient funds, for example, or the customer paid the check value in cash.
 
@@ -68,6 +65,8 @@
 4. A journal entry is made, the value of which is combined from the check to be returned, thus increasing the customer's indebtedness.
 
 [![Receiving Cheques][product-screenshot04]]()
+
+
 
 ### Built With
 
@@ -138,8 +137,8 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 [license-url]: https://github.com/Aboalia/NRPM-Addon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/engabo3lia/
-[product-screenshot01]: Images/ScreenShot01.PNG
-[product-screenshot02]: Images/ScreenShot02.PNG
+[product-screenshot01]: Images/ScreenShot01.png
+[product-screenshot02]: images/ScreenShot02.PNG
 [product-screenshot03]: Images/ScreenShot03.PNG
 [product-screenshot04]: Images/ScreenShot04.PNG
 [product-screenshot05]: Images/ScreenShot05.PNG
