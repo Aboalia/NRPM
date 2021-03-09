@@ -159,12 +159,4 @@ Project Link: [Project Link](https://github.com/Aboalia/NRPM-Addon)
 [product-screenshot18]: images/ScreenShot18.JPG
 [product-screenshot19]: images/ScreenShot19.JPG
 [product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
-[product-screenshot20]: images/ScreenShot20.JPG
+
